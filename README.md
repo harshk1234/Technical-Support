@@ -61,4 +61,8 @@ Generative pre-trained transformers (GPT) are state-of-the-art language models d
 ## Tokenization, Word2vec, and BERT
 Tokenization in NLP involves splitting text into smaller units known as tokens, which can be words, characters, or subwords. This step is crucial for preparing text for processing with various NLP models, as it standardizes the initial input into manageable pieces for algorithms to process. Word2vec, developed by researchers at Google, is a technique that embeds words into numerical vectors using shallow, two-layer NNs. The models are trained to reconstruct the linguistic contexts of words, thereby capturing the relationships and multiple degrees of similarity among them. Meanwhile, Bidirectional Encoder Representations from Transformers (BERT) represents a significant advancement in pre-training language representations. Developed also by Google, BERT incorporates a transformer architecture that processes words in relation to all the other words in a sentence, rather than one-by-one in order. This allows BERT to capture the full context of a word based on all its surroundings, leading to a deeper understanding of language nuances. BERT's ability to handle context from both directions makes it exceptionally powerful for tasks where context is crucial, such as question answering and sentiment analysis.
 
+## Neural Network
+A Neural Network is a type of machine learning algorithm inspired by the structure and functioning of the human brain. It is composed of layers of interconnected nodes (also called neurons), which process data and learn patterns to make predictions or decisions. Neural networks are the foundation of many artificial intelligence (AI) systems.
+
+
 
