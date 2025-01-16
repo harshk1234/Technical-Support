@@ -64,7 +64,7 @@ Tokenization in NLP involves splitting text into smaller units known as tokens, 
 ## Neural Network
 A Neural Network is a type of machine learning algorithm inspired by the structure and functioning of the human brain. It is composed of layers of interconnected nodes (also called neurons), which process data and learn patterns to make predictions or decisions. Neural networks are the foundation of many artificial intelligence (AI) systems.
 
-Applications
+Applications-
 Image recognition and processing (e.g., facial recognition).
 Natural language processing (e.g., chatbots, translation tools).
 Finance (e.g., fraud detection, stock price predictions).
