@@ -156,6 +156,28 @@ Mitigation:
 
 Enable automatic updates on your software if available or check for updates and install them on a regular basis.
 
+## What are hardware and software?
+Software correlates to any virtual programs that are run on the computer. These include operating systems, programs such as Microsoft Word and Excel, or internet browsers. The hardware installed on your computer determines which of these software applications can run and where it should run. 
+
+Broadly speaking, software systems consist of two overarching categories: 
+
+Application software
+
+System software
+
+Application software is responsible for running specific applications like Microsoft Word or Excel. System Software relates to running the actual hardware itself. An example of this would be device drivers or operating systems like Windows or Mac. An operating system can run on a PC, Mac, phone, or other devices. You'll explore operating systems in more detail at a later stage.
+
+Computer system architecture depicting the relationship between hardware and software.
+Hardware
+Application and system software makes the hardware function as intended. Hardware is typically the long-lasting aspect of a computer. It is possible to update your hardware by adding additional features like more RAM or installing SSDs. There may be a slight improvement, but it mostly retains its original state from when it was first purchased. The way you interact with your computer can be improved by buying better monitors or keyboards. Hardware has a certain life span, and components tend to age and wear down over time. 
+
+Software
+Contrary to this, software runs consistently over time but changes constantly with patches and updates for programs that are regularly being released. Generally, these releases relate more to security issues than improving performance. As a program matures and is used widely, various flaws and bugs are detected. Once it's reported, fixes are rolled out. This is why you are regularly prompted to upgrade your system. 
+
+Recall that hardware and software are interdependent to work. A computer is just a heap of plastic and silicon without an interface to receive input commands. Note that you are able to automate software to run continually. Some examples include sensor lights or traffic light sequences. If a program is compatible, it can run on various types of hardware.
+
+If a software upgrade is not working well, a workable solution is to upload an older version and restore it to a functional previous state. 
+
 
 
 
